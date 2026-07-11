@@ -1,0 +1,156 @@
+- generic [ref=f4e1]:
+  - navigation "Main navigation" [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - link "Café Revival" [ref=f4e4] [cursor=pointer]:
+        - /url: "#hero"
+      - button "Toggle navigation menu" [expanded] [active] [ref=f4e5] [cursor=pointer]
+      - menubar [ref=f4e206]:
+        - menuitem "Our Story" [ref=f4e207] [cursor=pointer]
+        - menuitem "Vision" [ref=f4e208] [cursor=pointer]
+        - menuitem "Community" [ref=f4e209] [cursor=pointer]
+        - menuitem "Visit" [ref=f4e210] [cursor=pointer]
+        - menuitem "Contact" [ref=f4e211] [cursor=pointer]
+  - generic [ref=f4e9]:
+    - img "Warm coffee shop interior with wooden tables and soft lighting" [ref=f4e10]
+    - generic [ref=f4e11]:
+      - heading "Café Revival" [level=1] [ref=f4e12]
+      - paragraph [ref=f4e13]: Good Coffee. & Real Connection.
+      - paragraph [ref=f4e14]: A place where the coffee’s always fresh and the door’s always open. Good people, good conversation, and nowhere else to be.
+      - generic [ref=f4e15]:
+        - link "Our Story" [ref=f4e16] [cursor=pointer]:
+          - /url: "#story"
+        - link "Plan Your Visit" [ref=f4e17] [cursor=pointer]:
+          - /url: "#visit"
+    - generic [ref=f4e18]: Scroll
+  - generic [ref=f4e23]:
+    - generic [ref=f4e24]:
+      - generic [ref=f4e25]: Our Story
+      - heading "It started with a simple thought." [level=2] [ref=f4e26]
+      - paragraph [ref=f4e27]: "We kept noticing the same thing: the best conversations—the real ones—happened over coffee. Not in a meeting room, not in a church hall. At a small table with a warm cup in hand and nowhere to rush off to."
+      - paragraph [ref=f4e28]: Coffee shops have a way of slowing people down. You sit. You talk. Things come up that might not otherwise. That kind of space felt worth building.
+      - paragraph [ref=f4e29]: So we started dreaming about a café where the coffee is excellent and faith is woven through everything—not loud, not hidden, just present. A place that feels good to walk into, whether you’re coming alone, meeting a friend, or just need somewhere to sit and think.
+      - paragraph [ref=f4e30]: The café is the setting. Revival is the prayer.
+      - link "Our Vision" [ref=f4e31] [cursor=pointer]:
+        - /url: "#vision"
+    - img "Two people laughing together over coffee at a small table" [ref=f4e34]
+  - generic [ref=f4e36]:
+    - generic [ref=f4e37]:
+      - generic [ref=f4e38]: Our Vision
+      - heading "More than a coffee shop." [level=2] [ref=f4e39]
+      - paragraph [ref=f4e40]: A place where faith and everyday life don’t feel like separate things. A hub for connection, ministry, and community.
+    - generic [ref=f4e41]:
+      - generic [ref=f4e42]:
+        - heading "Christ-Centered Gathering Place" [level=3] [ref=f4e49]
+        - paragraph [ref=f4e50]: Bible studies, worship nights, prayer groups—happening throughout the week. These are part of what we do, like pulling shots and steaming milk.
+      - generic [ref=f4e51]:
+        - heading "Rooted in the Neighborhood" [level=3] [ref=f4e55]
+        - paragraph [ref=f4e56]: Food distributions, recovery groups, community meals, thrift outreach. We’re here for the neighborhood, not just the customers who walk in.
+      - generic [ref=f4e57]:
+        - heading "Humble & Dependent" [level=3] [ref=f4e61]
+        - paragraph [ref=f4e62]: Revival can’t be manufactured. We show up, we make space, and we trust God with whatever comes next.
+  - generic [ref=f4e64]:
+    - generic [ref=f4e65]:
+      - generic [ref=f4e66]: What Makes Us Different
+      - heading "Great coffee and real purpose belong in the same room." [level=2] [ref=f4e67]
+      - paragraph [ref=f4e68]: Here’s what that looks like.
+    - generic [ref=f4e69]:
+      - generic [ref=f4e70]:
+        - heading "Really Good Coffee" [level=3] [ref=f4e75]
+        - paragraph [ref=f4e76]: We spent months finding the right roaster. Every shot is dialed in by hand. Good coffee isn’t an accident—and the people who walk through our doors deserve the real thing.
+      - generic [ref=f4e77]:
+        - heading "Real Community" [level=3] [ref=f4e82]
+        - paragraph [ref=f4e83]: Walk in enough times and someone will know your name. And your order. And might actually ask how your week was. That’s the kind of place we’re building.
+      - generic [ref=f4e84]:
+        - heading "Faith Without Pressure" [level=3] [ref=f4e88]
+        - paragraph [ref=f4e89]: Our faith in Jesus shapes everything about this café—the way we serve, the way we treat people, the way we work. But there’s nothing you need to sign or say to walk through the door.
+  - generic [ref=f4e90]:
+    - text: "\""
+    - generic [ref=f4e92]:
+      - generic [ref=f4e93]: Our Mission
+      - heading "Why we exist" [level=2] [ref=f4e94]
+      - paragraph [ref=f4e95]: To glorify God by creating a welcoming community café where authentic relationships provide opportunities to share the hope of Jesus, strengthen those who follow Him, and serve our neighbors with genuine hospitality.
+      - paragraph [ref=f4e96]: — Rooted in faith. Grounded in love. Open to all.
+    - text: "\""
+  - generic [ref=f4e98]:
+    - generic [ref=f4e99]:
+      - generic [ref=f4e100]: A Place to Gather
+      - heading "Community life at Café Revival" [level=2] [ref=f4e101]
+      - paragraph [ref=f4e102]: The café stays open, but the tables get rearranged. Here are some of the ways the space comes alive throughout the week.
+    - generic [ref=f4e103]:
+      - generic [ref=f4e104]:
+        - heading "Bible Studies" [level=3] [ref=f4e109]
+        - paragraph [ref=f4e110]: Small groups gathering around Scripture. Some have studied it for decades. Some are opening it for the first time. Everyone’s welcome at the table.
+      - generic [ref=f4e111]:
+        - heading "Worship Nights" [level=3] [ref=f4e117]
+        - paragraph [ref=f4e118]: Simple evenings of music, silence, and prayer. A chance to slow down and let the weight of the week fall off for a while.
+      - generic [ref=f4e119]:
+        - heading "Prayer Gatherings" [level=3] [ref=f4e123]
+        - paragraph [ref=f4e124]: Lifting up our neighbors, our city, and one another. Sometimes it’s structured. Sometimes it’s just a few people sitting in silence together.
+      - generic [ref=f4e125]:
+        - heading "Recovery Support" [level=3] [ref=f4e132]
+        - paragraph [ref=f4e133]: Confidential spaces for people navigating recovery. Everyone deserves a place to heal without judgment.
+      - generic [ref=f4e134]:
+        - heading "Community Meals" [level=3] [ref=f4e138]
+        - paragraph [ref=f4e139]: Regular shared dinners where anyone can pull up a chair. Breaking bread together has a way of turning strangers into people you know.
+      - generic [ref=f4e140]:
+        - heading "Food Pantry" [level=3] [ref=f4e145]
+        - paragraph [ref=f4e146]: Practical help for neighbors who need it. No forms, no income checks, no questions. Just food and a warm welcome.
+  - generic [ref=f4e149]:
+    - generic [ref=f4e150]:
+      - generic [ref=f4e151]: Why Café Revival
+      - heading "The café is the setting. Revival is the prayer." [level=2] [ref=f4e152]
+      - paragraph [ref=f4e153]: Café Revival is a starting point, not a destination. We hope God uses this space to strengthen churches, launch new ministries, restore families, and bring hope to people who feel far from Him.
+      - paragraph [ref=f4e154]: We dream of a place where the line between sacred and everyday blurs. Where conversations over coffee lead to changed lives. Where the presence of Jesus feels as natural as the smell of fresh espresso.
+      - generic [ref=f4e155]: “Unless the Lord builds the house, those who build it labor in vain.” — Psalm 127:1
+      - paragraph [ref=f4e156]: We show up. We brew good coffee. We love our neighbors. And we trust God with the rest.
+    - generic [ref=f4e157]: Revival
+  - contentinfo [ref=f4e159]:
+    - generic [ref=f4e160]:
+      - generic [ref=f4e161]:
+        - generic [ref=f4e162]:
+          - heading "Café Revival" [level=3] [ref=f4e163]
+          - paragraph [ref=f4e164]: Good Coffee. Real Connection.
+          - paragraph [ref=f4e165]: Come as you are. You’re welcome here.
+        - generic [ref=f4e166]:
+          - heading "Visit" [level=4] [ref=f4e167]
+          - list [ref=f4e168]:
+            - listitem [ref=f4e169]:
+              - link "123 Main Street Your City, ST 12345" [ref=f4e170] [cursor=pointer]:
+                - /url: "#"
+                - text: 123 Main StreetYour City, ST 12345
+            - listitem [ref=f4e171]:
+              - link "(555) 123-4567" [ref=f4e172] [cursor=pointer]:
+                - /url: tel:+15551234567
+            - listitem [ref=f4e173]:
+              - link "hello@caferevival.com" [ref=f4e174] [cursor=pointer]:
+                - /url: mailto:hello@caferevival.com
+        - generic [ref=f4e175]:
+          - heading "Hours" [level=4] [ref=f4e176]
+          - list [ref=f4e177]:
+            - listitem [ref=f4e178]: "Mon–Fri: 6:30am – 7:00pm"
+            - listitem [ref=f4e179]: "Saturday: 7:00am – 8:00pm"
+            - listitem [ref=f4e180]: "Sunday: 8:00am – 2:00pm"
+        - generic [ref=f4e181]:
+          - heading "Connect" [level=4] [ref=f4e182]
+          - list [ref=f4e183]:
+            - listitem [ref=f4e184]:
+              - link "Our Story" [ref=f4e185] [cursor=pointer]:
+                - /url: "#story"
+            - listitem [ref=f4e186]:
+              - link "Vision" [ref=f4e187] [cursor=pointer]:
+                - /url: "#vision"
+            - listitem [ref=f4e188]:
+              - link "Community" [ref=f4e189] [cursor=pointer]:
+                - /url: "#community"
+            - listitem [ref=f4e190]:
+              - link "Events Calendar" [ref=f4e191] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=f4e192]:
+        - paragraph [ref=f4e193]: © 2026 Café Revival. All rights reserved.
+        - generic [ref=f4e194]:
+          - link "Instagram" [ref=f4e195] [cursor=pointer]:
+            - /url: "#"
+          - link "Facebook" [ref=f4e199] [cursor=pointer]:
+            - /url: "#"
+          - link "YouTube" [ref=f4e202] [cursor=pointer]:
+            - /url: "#"
